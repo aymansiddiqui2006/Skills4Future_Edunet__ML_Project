@@ -85,7 +85,7 @@ python -m streamlit run app.py
 
 ## 📸 Screenshots
 
-![Dashboard]("<img width="1919" height="919" alt="Screenshot 2026-03-21 003420" src="https://github.com/user-attachments/assets/86634190-3df4-4c66-abf2-a57218710158" />
+("<img width="1919" height="919" alt="Screenshot 2026-03-21 003420" src="https://github.com/user-attachments/assets/86634190-3df4-4c66-abf2-a57218710158" />
 ")
 
 ---
