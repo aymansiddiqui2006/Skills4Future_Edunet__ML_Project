@@ -85,7 +85,7 @@ python -m streamlit run app.py
 
 ## 📸 Screenshots
 
-![Dashboard](images/dashboard.png)
+![Dashboard]("C:\Users\ayman siddiqui\Desktop\ML\project\Recording 2026-03-21 003644.mp4")
 
 ---
 
